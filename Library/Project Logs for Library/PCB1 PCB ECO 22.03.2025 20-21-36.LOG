@@ -1,0 +1,9 @@
+Added Component: Designator=XS1(power)
+Added Pin To Net: NetName=+5V Pin=XS1-1
+Added Pin To Net: NetName=GND Pin=XS1-2
+Add Pin To Net: Unknown Pin: Pin XS2-2
+Add Pin To Net: Unknown Pin: Pin XS2-3
+Add Pin To Net: Unknown Pin: Pin XS2-4
+Add Pin To Net: Unknown Pin: Pin XS2-5
+Add Pin To Net: Unknown Pin: Pin XS2-6
+Added Member To Class: ClassName=Sheet1 Member=Component XS1 power
