@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=NetDD2_9 Pin=DD2-9
+Removed Pin From Net: NetName=NetDD2_10 Pin=DD2-10
+Removed Pin From Net: NetName=NetDD2_11 Pin=DD2-11
+Removed Pin From Net: NetName=NetDA2_1 Pin=DD2-36
+Removed Pin From Net: NetName=NetDA2_2 Pin=DD2-37
+Removed Pin From Net: NetName=NetDA1_1 Pin=DD2-38
+Removed Pin From Net: NetName=NetDA1_2 Pin=DD2-39
+Change Net Name : Old Net Name=NetDD2_9 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetDD2_10 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetDD2_11 New Net Name=NetR4_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=SW1-2
+Added Pin To Net: NetName=NetR1_1 Pin=SW1-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=SW5-2
+Added Pin To Net: NetName=NetR5_1 Pin=SW5-2
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=SW6-2
+Added Pin To Net: NetName=NetR6_1 Pin=SW6-2
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=SW7-2
+Added Pin To Net: NetName=NetR7_1 Pin=SW7-2
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=SW8-2
+Added Pin To Net: NetName=NetR8_1 Pin=SW8-2
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=SW9-2
+Added Pin To Net: NetName=NetR9_1 Pin=SW9-2
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=SW10-2
+Added Pin To Net: NetName=NetR10_1 Pin=SW10-2
+Added Net: Name=NetR10_1
+Added Member To Class: ClassName=Sheet1 Member=Component SW9 button
