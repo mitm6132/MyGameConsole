@@ -1,0 +1,31 @@
+Change Physical Footprint: Designator=C1 Old Footprint=capacitor 1206 New Footprint=capacitor 1206
+Change Physical Footprint: Designator=C2 Old Footprint=capacitor 1206 New Footprint=capacitor 1206
+Change Physical Footprint: Designator=DA1 Old Footprint=joy stick psp 4 pin New Footprint=joy stick psp 4 pin
+Change Physical Footprint: Designator=DA2 Old Footprint=joy stick psp 4 pin New Footprint=joy stick psp 4 pin
+Change Physical Footprint: Designator=DD1 Old Footprint=orange Pi Zero 3 New Footprint=orange Pi Zero 3
+Change Physical Footprint: Designator=DD2 Old Footprint=atmega32u4 New Footprint=atmega32u4
+Change Physical Footprint: Designator=R1 Old Footprint=resistor 1206 New Footprint=resistor 1206
+Change Physical Footprint: Designator=R2 Old Footprint=resistor 1206 New Footprint=resistor 1206
+Change Physical Footprint: Designator=R3 Old Footprint=resistor 1206 New Footprint=resistor 1206
+Change Physical Footprint: Designator=R4 Old Footprint=resistor 1206 New Footprint=resistor 1206
+Change Physical Footprint: Designator=R5 Old Footprint=resistor 1206 New Footprint=resistor 1206
+Change Physical Footprint: Designator=R6 Old Footprint=resistor 1206 New Footprint=resistor 1206
+Change Physical Footprint: Designator=R7 Old Footprint=resistor 1206 New Footprint=resistor 1206
+Change Physical Footprint: Designator=R8 Old Footprint=resistor 1206 New Footprint=resistor 1206
+Change Physical Footprint: Designator=R9 Old Footprint=resistor 1206 New Footprint=resistor 1206
+Change Physical Footprint: Designator=R10 Old Footprint=resistor 1206 New Footprint=resistor 1206
+Change Physical Footprint: Designator=R11 Old Footprint=resistor 1206 New Footprint=resistor 1206
+Change Physical Footprint: Designator=SW1 Old Footprint=membrane button New Footprint=membrane button
+Change Physical Footprint: Designator=SW2 Old Footprint=membrane button New Footprint=membrane button
+Change Physical Footprint: Designator=SW3 Old Footprint=membrane button New Footprint=membrane button
+Change Physical Footprint: Designator=SW4 Old Footprint=membrane button New Footprint=membrane button
+Change Physical Footprint: Designator=SW5 Old Footprint=membrane button New Footprint=membrane button
+Change Physical Footprint: Designator=SW6 Old Footprint=membrane button New Footprint=membrane button
+Change Physical Footprint: Designator=SW7 Old Footprint=membrane button New Footprint=membrane button
+Change Physical Footprint: Designator=SW8 Old Footprint=membrane button New Footprint=membrane button
+Change Physical Footprint: Designator=SW9 Old Footprint=membrane button New Footprint=membrane button
+Change Physical Footprint: Designator=SW10 Old Footprint=membrane button New Footprint=membrane button
+Change Physical Footprint: Designator=SW11 Old Footprint=membrane button New Footprint=membrane button
+Change Physical Footprint: Designator=XS1 Old Footprint=power New Footprint=power
+Change Physical Footprint: Designator=XS2 Old Footprint=JOIN_6 New Footprint=JOIN_6
+Change Physical Footprint: Designator=ZQ1 Old Footprint=quartz resonator New Footprint=quartz resonator
