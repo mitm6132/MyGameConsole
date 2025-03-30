@@ -1,0 +1,4 @@
+Added Component: Designator=XS1(power)
+Added Pin To Net: NetName=NetDA1_3 Pin=XS1-1
+Added Pin To Net: NetName=NetDA1_4 Pin=XS1-2
+Added Member To Class: ClassName=Sheet1 Member=Component XS1 power

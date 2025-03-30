@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetDA1_6 Pin=DA2-1
+Change Component Designator: OldDesignator=SW11 NewDesignator=SW12
+Added Component: Designator=SW11(PowerButton)
+Added Pin To Net: NetName=NetDA1_6 Pin=SW11-1
+Added Pin To Net: NetName=NetDA2_1 Pin=DA2-1
+Added Pin To Net: NetName=NetDA2_1 Pin=SW11-2
+Added Net: Name=NetDA2_1
+Added Member To Class: ClassName=Sheet1 Member=Component SW12 button
