@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+5V Pin=XS2-1
+Removed Pin From Net: NetName=NetDD2_10 Pin=XS2-2
+Removed Pin From Net: NetName=GND Pin=XS2-3
+Removed Pin From Net: NetName=NetDD2_11 Pin=XS2-4
+Removed Pin From Net: NetName=NetDD2_9 Pin=XS2-5
+Removed Pin From Net: NetName=NetDD2_13 Pin=XS2-6
+Removed Member From Class: ClassName=Sheet1 Member=XS3
+Change Component Designator: OldDesignator=XS3 NewDesignator=XS2
